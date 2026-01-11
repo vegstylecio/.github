@@ -30,5 +30,25 @@ We are looking for developers, UI/UX designers, and vegan advocates who want to 
 - **Vulnerability Reporting**: See our [SECURITY.md](https://github.com/VegStyle-CIO/.github/blob/main/SECURITY.md).
 - **Inquiries**: [info@vegstyle.org.uk](mailto:info@vegstyle.org.uk)
 
+## 🌐 Ecosystem & Community
+
+<p align="left">
+  <a href="https://opencollective.com/vegstylecio">
+    <img src="https://img.shields.io/badge/OpenCollective-Support%20Us-white?style=for-the-badge&logo=opencollective" alt="Support on OpenCollective">
+  </a>
+  <a href="https://bsky.app/profile/vegstyle.org.uk">
+    <img src="https://img.shields.io/badge/BlueSky-Follow%20Us-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="BlueSky">
+  </a>
+  <a href="https://youtube.com/@vegstylecio">
+    <img src="https://img.shields.io/badge/YouTube-Watch%20Videos-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="https://www.tiktok.com/@vegstylecio">
+    <img src="https://img.shields.io/badge/TikTok-Follow%20Us-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
+  </a>
+  <a href="https://linktr.ee/vegstylecio">
+    <img src="https://img.shields.io/badge/LinkTree-All%20Links-1DE9B6?style=for-the-badge&logo=linktree&logoColor=white" alt="LinkTree">
+  </a>
+</p>
+
 ---
 *VegStyle CIO is a registered charity (pending) in England and Wales. Professional infrastructure powered by Cloudflare.*
