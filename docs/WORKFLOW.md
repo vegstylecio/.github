@@ -2,33 +2,6 @@
 
 This document outlines our internal development process, branching strategy, commit and pull request guidelines, release management, and the utilization of GitHub tools for our project. It aims to provide a comprehensive, easy-to-follow, and direct procedure for all team members.
 
-**Table of Contents:**
-
-1.  [Branching Strategy](#1-branching-strategy)
-      * [The `main` Branch](#the-main-branch)
-      * [The `dev` Branch](#the-dev-branch)
-      * [Feature Branches](#feature-branches)
-      * [Release Branches](#release-branches)
-      * [Hotfix Branches](#hotfix-branches)
-2.  [Commit Guidelines](#2-commit-guidelines)
-      * [Commit Message Standard](#commit-message-standard)
-      * [Linear History Requirement](#linear-history-requirement)
-3.  [Pull Request (PR) Process](#3-pull-request-pr-process)
-      * [PR from Feature to `dev`](#pr-from-feature-to-dev)
-      * [PR for Release (`release/vX.Y.Z` to `main`)](#pr-for-release-releasevxyz-to-main)
-      * [PR for Hotfix (`hotfix/<name>` to `main` then `dev`)](#pr-for-hotfix-hotfixname-to-main-then-dev)
-      * [Merge Types](#merge-types)
-4.  [Release Management and Tagging](#4-release-management-and-tagging)
-      * [Release Cycle](#release-cycle)
-      * [Tagging](#tagging)
-5.  [GitHub Tool Usage](#5-github-tool-usage)
-      * [GitHub Projects](#github-projects)
-      * [GitHub Discussions](#github-discussions)
-6.  [Branch Protection (GitHub Settings)](#6-branch-protection-github-settings)
-7.  [General Best Practices](#7-general-best-practices)
-      * [Test Driven Development (TDD)](#test-driven-development-tdd)
-      * [Clean Architecture](#clean-architecture)
-
 -----
 
 ## 1\. Branching Strategy
