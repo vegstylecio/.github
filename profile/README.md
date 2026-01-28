@@ -18,6 +18,13 @@ As a tech-forward CIO, we build our tools with a focus on:
 - **Data Integrity**: Using robust scanning logic and verified news sources.
 - **Security**: Protecting donor information and user data through enterprise-grade infrastructure.
 
+### 📘 Engineering Standards & Documentation
+We maintain centralized documentation for all our repositories to ensure consistency and quality:
+
+- **[Internal Development Workflow](https://github.com/vegstylecio/.github/blob/main/docs/WORKFLOW.md)**: Our strictly enforced branching strategy, commit guidelines, and release cycles.
+- **[Security Policy](https://github.com/vegstylecio/.github/blob/main/SECURITY.md)**: How we handle vulnerabilities and protect user data.
+- **[Contributing Guidelines](https://github.com/vegstylecio/.github/blob/main/docs/CONTRIBUTING.md)**: General rules for open source contributors.
+
 ## 📁 Active Projects
 
 - **.github**: Community health files and global security policies.
@@ -27,7 +34,6 @@ As a tech-forward CIO, we build our tools with a focus on:
 
 We are looking for developers, UI/UX designers, and vegan advocates who want to contribute to an open-source ethical project.
 
-- **Vulnerability Reporting**: See our [SECURITY.md](https://github.com/VegStyle-CIO/.github/blob/main/SECURITY.md).
 - **Inquiries**: [info@vegstyle.org.uk](mailto:info@vegstyle.org.uk)
 
 ## 🌐 Ecosystem & Community
