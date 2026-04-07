@@ -1,4 +1,4 @@
-# VegStyle CIO 🌿🛡️
+# VegStyle™ CIO 🌿🛡️
 
 VegStyle is a non-profit Charitable Incorporated Organisation (CIO) dedicated to accelerating animal advocacy through accessible technology. Our mission is to provide a free, comprehensive platform for the vegan community.
 
