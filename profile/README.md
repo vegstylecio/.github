@@ -1,8 +1,8 @@
 # VegStyle™ CIO 🌿🛡️
 
-VegStyle is a non-profit Charitable Incorporated Organisation (CIO) dedicated to accelerating animal advocacy through accessible technology. Our mission is to provide a free, comprehensive platform for the vegan community.
+VegStyle™ is a non-profit Charitable Incorporated Organisation (CIO) dedicated to accelerating animal advocacy through accessible technology. Our mission is to provide a free, comprehensive platform for the vegan community.
 
-## 📱 The VegStyle App
+## 📱 The VegStyle™ App
 
 We are developing an all-in-one mobile application designed to simplify vegan activism and daily lifestyle choices:
 
@@ -83,4 +83,6 @@ We are looking for developers, UI/UX designers, and vegan advocates who want to 
 </p>
 
 ---
-*VegStyle CIO is a registered charity (pending) in England and Wales. Professional infrastructure powered by Cloudflare.*
+*VegStyle™ CIO is a registered charity (pending) in England and Wales. Professional infrastructure powered by Cloudflare.*
+
+*VegStyle™ is a trademark of the project founder(s). All associated software is distributed under the AGPL-3.0 License. See individual repository `LICENSE` and `NOTICE` files for details.*
