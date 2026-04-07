@@ -11,7 +11,7 @@ We are currently in active development. Security updates are provided for the la
 
 ## Reporting a Vulnerability
 
-VegStyle CIO is committed to maintaining the highest standards of data integrity and security. If you discover a security vulnerability in any of our projects, we appreciate your help in disclosing it to us in a responsible manner.
+VegStyle™ CIO is committed to maintaining the highest standards of data integrity and security. If you discover a security vulnerability in any of our projects, we appreciate your help in disclosing it to us in a responsible manner.
 
 **Please do not open a public GitHub issue for security vulnerabilities.**
 
