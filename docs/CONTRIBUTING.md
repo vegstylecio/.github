@@ -1,6 +1,6 @@
-# Contributing to VegStyle CIO
+# Contributing to VegStyle™ CIO
 
-First off, thank you for considering contributing to VegStyle. 
+First off, thank you for considering contributing to VegStyle™. 
 VegStyle is not just software; it is a mission to accelerate animal advocacy through accessible, free, and secure technology.
 
 This document serves as the global contribution hub for all repositories under the [VegStyle CIO Organization](https://github.com/vegstylecio). 
@@ -56,7 +56,7 @@ Key Rules:
 ## ⚖️ Licensing & Copyright
 
 * **License:** All our projects are licensed under the **GNU Affero General Public License v3.0 (AGPL v3)**.
-* **Copyright:** Contributors retain ownership of their code but grant VegStyle CIO a perpetual license to use it under AGPL v3.
+* **Copyright:** Contributors retain ownership of their code but grant the project and its founder(s) a perpetual license to use it under AGPL v3.
 * **Headers:** All new files must include the standard project copyright header.
 
 ---
