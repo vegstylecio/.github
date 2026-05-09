@@ -78,7 +78,7 @@ Pull Requests are the gateway for introducing code into the main branches, ensur
   * **Destination:** `dev`
   * **Requirements:**
       * All tests (unit, widget, integration) must pass.
-      * Code must be formatted (`flutter format .`) and analyzed (`flutter analyze`).
+      * Code must pass the local quality gate by running make audit (which includes formatting, linting, and tests).
       * Clear PR description, with screenshots/videos if relevant.
       * Requires approval from at least one other team member.
   * **Merge Type:** Use **Squash Merge** (preferred for single features) or **Rebase Merge**.
