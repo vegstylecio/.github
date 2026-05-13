@@ -23,7 +23,7 @@ We maintain centralized documentation for all our repositories to ensure consist
 
 - **[Internal Development Workflow](https://github.com/vegstylecio/.github/blob/main/docs/WORKFLOW.md)**: Our strictly enforced branching strategy, commit guidelines, and release cycles.
 - **[Security Policy](https://github.com/vegstylecio/.github/blob/main/SECURITY.md)**: How we handle vulnerabilities and protect user data.
-- **[Contributing Guidelines](https://github.com/vegstylecio/.github/blob/main/docs/CONTRIBUTING.md)**: General rules for open source contributors.
+- **[Contributing Guidelines](https://github.com/vegstylecio/.github/blob/main/CONTRIBUTING.md)**: General rules for open source contributors.
 
 ## 📁 Active Projects
 
