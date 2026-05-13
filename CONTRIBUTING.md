@@ -43,7 +43,7 @@ We treat tests as a first-class citizen.
 
 To maintain stability across our repositories, we enforce a strict **Gitflow-inspired** workflow with **Branch Protection Rules**.
 
-👉 **You MUST read our [Internal Development Workflow Guide](WORKFLOW.md) before opening any Pull Request.**
+👉 **You MUST read our [Internal Development Workflow Guide](docs/WORKFLOW.md) before opening any Pull Request.**
 
 Key Rules:
 * Base branch for PRs is always `dev`.
@@ -63,7 +63,7 @@ Key Rules:
 
 ## 📞 Getting Help
 
-* **Security Vulnerabilities:** Do NOT open an issue. See [SECURITY.md](../SECURITY.md).
+* **Security Vulnerabilities:** Do NOT open an issue. See [SECURITY.md](SECURITY.md).
 * **General Questions:** Open a Discussion in the relevant repository.
 * **Private Inquiries:** Contact `info@vegstyle.org.uk`.
 
