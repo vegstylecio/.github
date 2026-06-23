@@ -1,6 +1,6 @@
 # VegStyle™ CIO 🌿🛡️
 
-VegStyle™ is a non-profit Charitable Incorporated Organisation (CIO) dedicated to accelerating animal advocacy through accessible technology. Our mission is to provide a free, comprehensive platform for the vegan community.
+VegStyle™ CIO is the planned operating entity for the VegStyle™ initiative: a non-profit Charitable Incorporated Organisation to be registered in England and Wales, dedicated to accelerating animal advocacy through accessible technology. Its mission will be to provide a free, comprehensive platform for the vegan community. Until formal registration, the initiative is operated by its founder.
 
 ## 📱 The VegStyle™ App
 
@@ -13,7 +13,7 @@ We are developing an all-in-one mobile application designed to simplify vegan ac
 
 ## 🛠 Engineering Approach
 
-As a tech-forward CIO, we build our tools with a focus on:
+Building the technology that will power the future VegStyle™ CIO, we focus on:
 - **Zero Cost for Users**: All our tools are and will remain 100% free.
 - **Data Integrity**: Using robust scanning logic and verified news sources.
 - **Security**: Protecting donor information and user data through enterprise-grade infrastructure.
