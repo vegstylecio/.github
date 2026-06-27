@@ -53,11 +53,15 @@ Key Rules:
 
 ---
 
-## ⚖️ Licensing & Copyright
+## ⚖️ Licensing & Contributor License Agreement
 
-* **License:** All our projects are licensed under the **GNU Affero General Public License v3.0 (AGPL v3)**.
-* **Copyright:** Contributors retain ownership of their code but grant the project and its founder(s) a perpetual license to use it under AGPL v3.
-* **Headers:** All new files must include the standard project copyright header.
+All `vegstylecio` repositories operate under the **FSFE Fiduciary License Agreement 2.1 (FLA-2.1)** for contributions. Every Pull Request requires the contributor to sign the FLA via [CLA-assistant](https://cla-assistant.io/vegstylecio/.github) before merge; the signature is collected once and remains valid across the entire organization.
+
+* **Outbound license:** All projects are released under the **GNU Affero General Public License v3.0 (AGPL-3.0-only)**, per our [LICENSING_POLICY](LICENSING_POLICY.md). The fiduciary may evolve the outbound license in the future within the bounds of that policy (FSF-and-OSI-approved copyleft licenses only), without requiring contributor re-signature.
+* **Copyright assignment:** Under the FLA-2.1 contributors assign the economic rights of their contribution to the project's fiduciary (currently the maintainer; the FLA mechanism allows transfer to a successor fiduciary in the future without contributor re-signature). Contributors retain a perpetual non-exclusive license over their own contribution and keep their moral rights (authorship) under applicable law.
+* **File headers:** Source files carry an SPDX header naming the current fiduciary as copyright holder and `AGPL-3.0-only` as the license. The header reflects the post-assignment state; individual authorship is preserved via Git history and any per-repository `AUTHORS` or `NOTICE` files.
+
+For the full FLA-2.1 reference (what you sign, why an FLA, signature flow, stated transition intent, and the bot enforcement details), see [CONTRIBUTOR_AGREEMENT.md](CONTRIBUTOR_AGREEMENT.md).
 
 ---
 
