@@ -83,6 +83,6 @@ We are looking for developers, UI/UX designers, and vegan advocates who want to 
 </p>
 
 ---
-*VegStyle™ is an open-source initiative, with plans to register as a Charitable Incorporated Organisation (CIO) in England and Wales. Professional infrastructure powered by Cloudflare.*
+*VegStyle™ is an open-source initiative, with plans to register as a Charitable Incorporated Organisation (CIO) in England and Wales.*
 
 *VegStyle™ is a trademark of the project founder(s). All associated software is distributed under the AGPL-3.0 License. See individual repository `LICENSE` and `NOTICE` files for details.*
