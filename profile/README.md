@@ -1,8 +1,8 @@
-# VegStyle CIO 🌿🛡️
+# VegStyle™ CIO 🌿🛡️
 
-VegStyle is a non-profit Charitable Incorporated Organisation (CIO) dedicated to accelerating animal advocacy through accessible technology. Our mission is to provide a free, comprehensive platform for the vegan community.
+VegStyle™ CIO is the planned operating entity for the VegStyle™ initiative: a non-profit Charitable Incorporated Organisation to be registered in England and Wales, dedicated to accelerating animal advocacy through accessible technology. Its mission will be to provide a free, comprehensive platform for the vegan community. Until formal registration, the initiative is operated by its founder.
 
-## 📱 The VegStyle App
+## 📱 The VegStyle™ App
 
 We are developing an all-in-one mobile application designed to simplify vegan activism and daily lifestyle choices:
 
@@ -13,7 +13,7 @@ We are developing an all-in-one mobile application designed to simplify vegan ac
 
 ## 🛠 Engineering Approach
 
-As a tech-forward CIO, we build our tools with a focus on:
+Building the technology that will power the future VegStyle™ CIO, we focus on:
 - **Zero Cost for Users**: All our tools are and will remain 100% free.
 - **Data Integrity**: Using robust scanning logic and verified news sources.
 - **Security**: Protecting donor information and user data through enterprise-grade infrastructure.
@@ -23,7 +23,7 @@ We maintain centralized documentation for all our repositories to ensure consist
 
 - **[Internal Development Workflow](https://github.com/vegstylecio/.github/blob/main/docs/WORKFLOW.md)**: Our strictly enforced branching strategy, commit guidelines, and release cycles.
 - **[Security Policy](https://github.com/vegstylecio/.github/blob/main/SECURITY.md)**: How we handle vulnerabilities and protect user data.
-- **[Contributing Guidelines](https://github.com/vegstylecio/.github/blob/main/docs/CONTRIBUTING.md)**: General rules for open source contributors.
+- **[Contributing Guidelines](https://github.com/vegstylecio/.github/blob/main/CONTRIBUTING.md)**: General rules for open source contributors.
 
 ## 📁 Active Projects
 
@@ -83,4 +83,6 @@ We are looking for developers, UI/UX designers, and vegan advocates who want to 
 </p>
 
 ---
-*VegStyle CIO is a registered charity (pending) in England and Wales. Professional infrastructure powered by Cloudflare.*
+*VegStyle™ is an open-source initiative, with plans to register as a Charitable Incorporated Organisation (CIO) in England and Wales. Professional infrastructure powered by Cloudflare.*
+
+*VegStyle™ is a trademark of the project founder(s). All associated software is distributed under the AGPL-3.0 License. See individual repository `LICENSE` and `NOTICE` files for details.*
