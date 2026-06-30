@@ -3,7 +3,7 @@
 First off, thank you for considering contributing to VegStyle™. 
 VegStyle is not just software; it is a mission to accelerate animal advocacy through accessible, free, and secure technology.
 
-This document serves as the global contribution hub for all repositories under the [VegStyle CIO Organization](https://github.com/vegstylecio). 
+This document serves as the global contribution hub for all repositories under the [`vegstylecio` GitHub organization](https://github.com/vegstylecio). 
 
 ## 📜 Code of Conduct
 
@@ -43,7 +43,7 @@ We treat tests as a first-class citizen.
 
 To maintain stability across our repositories, we enforce a strict **Gitflow-inspired** workflow with **Branch Protection Rules**.
 
-👉 **You MUST read our [Internal Development Workflow Guide](docs/WORKFLOW.md) before opening any Pull Request.**
+👉 **You MUST read our [Internal Development Workflow Guide](/docs/WORKFLOW.md) before opening any Pull Request.**
 
 Key Rules:
 * Base branch for PRs is always `dev`.
@@ -57,17 +57,17 @@ Key Rules:
 
 All `vegstylecio` repositories operate under the **FSFE Fiduciary License Agreement 2.1 (FLA-2.1)** for contributions. Every Pull Request requires the contributor to sign the FLA via [CLA-assistant](https://cla-assistant.io/vegstylecio/.github) before merge; the signature is collected once and remains valid across the entire organization.
 
-* **Outbound license:** All projects are released under the **GNU Affero General Public License v3.0 (AGPL-3.0-only)**, per our [LICENSING_POLICY](LICENSING_POLICY.md). The fiduciary may evolve the outbound license in the future within the bounds of that policy (FSF-and-OSI-approved copyleft licenses only), without requiring contributor re-signature.
+* **Outbound license:** All projects are released under the **GNU Affero General Public License v3.0 (AGPL-3.0-only)**, per our [LICENSING_POLICY](/LICENSING_POLICY.md). The fiduciary may evolve the outbound license in the future within the bounds of that policy (FSF-and-OSI-approved copyleft licenses only), without requiring contributor re-signature.
 * **Copyright assignment:** Under the FLA-2.1 contributors assign the economic rights of their contribution to the project's fiduciary (currently the maintainer; the FLA mechanism allows transfer to a successor fiduciary in the future without contributor re-signature). Contributors retain a perpetual non-exclusive license over their own contribution and keep their moral rights (authorship) under applicable law.
 * **File headers:** Source files carry an SPDX header naming the current fiduciary as copyright holder and `AGPL-3.0-only` as the license. The header reflects the post-assignment state; individual authorship is preserved via Git history and any per-repository `AUTHORS` or `NOTICE` files.
 
-For the full FLA-2.1 reference (what you sign, why an FLA, signature flow, stated transition intent, and the bot enforcement details), see [CONTRIBUTOR_AGREEMENT.md](CONTRIBUTOR_AGREEMENT.md).
+For the full FLA-2.1 reference (what you sign, why an FLA, signature flow, stated transition intent, and the bot enforcement details), see [CONTRIBUTOR_AGREEMENT.md](/CONTRIBUTOR_AGREEMENT.md).
 
 ---
 
 ## 📞 Getting Help
 
-* **Security Vulnerabilities:** Do NOT open an issue. See [SECURITY.md](SECURITY.md).
+* **Security Vulnerabilities:** Do NOT open an issue. See [SECURITY.md](/SECURITY.md).
 * **General Questions:** Open a Discussion in the relevant repository.
 * **Private Inquiries:** Contact `info@vegstyle.org.uk`.
 

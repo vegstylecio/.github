@@ -8,13 +8,13 @@ VegStyle™ is adopting the **FSFE Fiduciary License Agreement 2.1 (FLA-2.1)** f
 
 The FLA-2.1 assigns the copyright of your contribution to the VegStyle™ fiduciary. The fiduciary grants you back a perpetual, irrevocable, non-exclusive license to your own contribution. Your moral rights as author are inalienable and remain with you under the law.
 
-The outbound license selected for the FLA is **AGPL-3.0-only**, as defined in our [LICENSING_POLICY](LICENSING_POLICY.md). The fiduciary retains the right to evolve the outbound license in the future, within the set of licenses approved jointly by the FSF and the OSI per the FLA-2.1 mechanism. Signing the FLA does not strip you of the right to use, fork, or relicense your own contribution outside the project.
+The outbound license selected for the FLA is **AGPL-3.0-only**, as defined in our [LICENSING_POLICY](/LICENSING_POLICY.md). The fiduciary retains the right to evolve the outbound license in the future, within the set of licenses approved jointly by the FSF and the OSI per the FLA-2.1 mechanism. Signing the FLA does not strip you of the right to use, fork, or relicense your own contribution outside the project.
 
 The fiduciary role rests with the project maintainer.
 
 ### Stated transition intent
 
-The project's stated intent is to transfer the fiduciary role to a nonprofit entity (the VegStyle™ CIO) once that entity is formally constituted. Until that constitution actually happens, no claim is made that the CIO exists or that any registration procedure is in progress; the only fiduciary that exists is the project maintainer as a natural person.
+Today the fiduciary is the project maintainer as a natural person. The project's stated intent is to transfer the fiduciary role to a nonprofit entity (the future VegStyle™ CIO) once that entity is formally constituted.
 
 When the CIO is constituted and accepts the role, the transfer is executed under the FLA-2.1 mechanism, which allows the fiduciary role and the copyright accumulated under it to pass to a successor fiduciary without requiring contributors to re-sign. Contributors signing the FLA today are therefore signing into a model whose long-term destination is institutional stewardship, even though the present-day fiduciary is a single individual.
 
